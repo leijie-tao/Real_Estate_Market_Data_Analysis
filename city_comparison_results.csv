@@ -1,0 +1,5 @@
+City,avg_price,avg_area,mean_price_per_sqft,median_price_per_sqft,house_count
+Cupertino,2163513.0,1747.0,1223.85,1084.0,13
+Santa Clara,1524744.0,1684.0,939.69,878.0,68
+Sunnyvale,1370310.0,1648.0,830.49,892.0,117
+San Jose,1260401.0,1646.0,761.42,731.0,730
